@@ -32,6 +32,10 @@ python3 flip.py <input_image_path> <output_image_path>
 python3 flip.py input.jpg output.jpg
 ```
 **3.2. 出力結果**
+| 名前 | 種類 |
+| --- | --- |
+| ポチ | 犬 |
+| タマ | 猫 |
 - 以下のように入力画像の左右反転画像が出力されます。
 | 入力画像(input.jpg) | 出力画像(output.jpg) |
 | --- | --- |
